@@ -1,0 +1,13 @@
+M:\Satranc\Satranc\Satranc.UI\bin\Debug\Satranc.UI.exe.config
+M:\Satranc\Satranc\Satranc.UI\bin\Debug\Satranc.UI.exe
+M:\Satranc\Satranc\Satranc.UI\bin\Debug\Satranc.UI.pdb
+M:\Satranc\Satranc\Satranc.UI\obj\Debug\Satranc.UI.csprojAssemblyReference.cache
+M:\Satranc\Satranc\Satranc.UI\obj\Debug\Satranc.UI.SatrancApp.resources
+M:\Satranc\Satranc\Satranc.UI\obj\Debug\Satranc.UI.Properties.Resources.resources
+M:\Satranc\Satranc\Satranc.UI\obj\Debug\Satranc.UI.csproj.GenerateResource.cache
+M:\Satranc\Satranc\Satranc.UI\obj\Debug\Satranc.UI.csproj.CoreCompileInputs.cache
+M:\Satranc\Satranc\Satranc.UI\obj\Debug\Satranc.UI.exe
+M:\Satranc\Satranc\Satranc.UI\obj\Debug\Satranc.UI.pdb
+M:\Satranc\Satranc\Satranc.UI\bin\Debug\Santrac.Entites.dll
+M:\Satranc\Satranc\Satranc.UI\bin\Debug\Santrac.Entites.pdb
+M:\Satranc\Satranc\Satranc.UI\obj\Debug\Satranc.UI.csproj.CopyComplete

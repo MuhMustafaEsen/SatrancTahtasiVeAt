@@ -1,0 +1,6 @@
+M:\Satranc\Satranc\Santrac.Entites\bin\Debug\Santrac.Entites.dll
+M:\Satranc\Satranc\Santrac.Entites\bin\Debug\Santrac.Entites.pdb
+M:\Satranc\Satranc\Santrac.Entites\obj\Debug\Santrac.Entites.csprojAssemblyReference.cache
+M:\Satranc\Satranc\Santrac.Entites\obj\Debug\Santrac.Entites.csproj.CoreCompileInputs.cache
+M:\Satranc\Satranc\Santrac.Entites\obj\Debug\Santrac.Entites.dll
+M:\Satranc\Satranc\Santrac.Entites\obj\Debug\Santrac.Entites.pdb
